@@ -17,11 +17,11 @@ pip install -r requirements.txt
 python montecarlo_race_simulation.py
 ```
 
-Results saved to `race_montecarlo_summary.csv`.
+Results saved to `race.csv`.
 
 ## R Usage
 
-You can also run the R script directly in RStudio by opening `montecarlo_race_simulation_R.R` and clicking **Run**.
+You can also run the R script directly in RStudio by opening `race.R` and clicking **Run**.
 
 ## Customization
 Edit `cars` and `track` objects in the scripts to modify strategies and race conditions.
